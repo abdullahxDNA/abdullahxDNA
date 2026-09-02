@@ -3,6 +3,7 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mdabdullah.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mdabdullah.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abdullahlisan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahlisan)
 [![GitHub](https://img.shields.io/badge/GitHub-abdullahxDNA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullahxDNA)
 [![Email](https://img.shields.io/badge/Email-mdabdullah10301%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdabdullah10301@gmail.com)
 
@@ -64,6 +65,6 @@ Specialized in Type-Safe Monorepos, High-Performance APIs, Enterprise Blockchain
 
 <div align="center">
 
-📫 **Connect with me:** [Website (mdabdullah.dev)](https://mdabdullah.dev) • [Email (mdabdullah10301@gmail.com)](mailto:mdabdullah10301@gmail.com) • [GitHub (@abdullahxDNA)](https://github.com/abdullahxDNA)
+📫 **Connect with me:** [Website (mdabdullah.dev)](https://mdabdullah.dev) • [LinkedIn](https://www.linkedin.com/in/abdullahlisan) • [Email (mdabdullah10301@gmail.com)](mailto:mdabdullah10301@gmail.com) • [GitHub (@abdullahxDNA)](https://github.com/abdullahxDNA)
 
 </div>
