@@ -4,7 +4,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mdabdullah.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mdabdullah.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-abdullahxDNA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullahxDNA)
-[![Contact](https://img.shields.io/badge/Contact-Get%20in%20Touch-007ACC?style=for-the-badge&logo=mail.ru&logoColor=white)](https://mdabdullah.dev#contact)
+[![Email](https://img.shields.io/badge/Email-mdabdullah10301%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdabdullah10301@gmail.com)
 
 **Full-Stack & Distributed Systems Engineer**  
 Specialized in Type-Safe Monorepos, High-Performance APIs, Enterprise Blockchain & Deep Learning.
@@ -63,6 +63,6 @@ Specialized in Type-Safe Monorepos, High-Performance APIs, Enterprise Blockchain
 
 <div align="center">
 
-📫 **Connect with me:** [Website (mdabdullah.dev)](https://mdabdullah.dev) • [GitHub (@abdullahxDNA)](https://github.com/abdullahxDNA)
+📫 **Connect with me:** [Website (mdabdullah.dev)](https://mdabdullah.dev) • [Email (mdabdullah10301@gmail.com)](mailto:mdabdullah10301@gmail.com) • [GitHub (@abdullahxDNA)](https://github.com/abdullahxDNA)
 
 </div>
