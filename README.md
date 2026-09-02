@@ -50,14 +50,15 @@ Specialized in Type-Safe Monorepos, High-Performance APIs, Enterprise Blockchain
 
 ---
 
-### 🌟 Featured Projects
+### 🌟 Featured Projects & Architecture
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| 🥐 [**Tamurfood**](https://github.com/abdullahxDNA/Tamurfood) | **B2B Bakery Ordering Platform** — Monorepo with end-to-end typed RPC, atomic inventory transactions, truthful accounting balances, and real-time SSE streams. | `React 19` `Hono` `Bun` `PostgreSQL` `Drizzle` `Supabase` |
-| 🌾 [**agrifood-blockchain-hyperledger**](https://github.com/abdullahxDNA/agrifood-blockchain-hyperledger) | **Agricultural Food Supply Chain Traceability** — Enterprise 3-organization permissioned blockchain with Go chaincode, Raft consensus, and Hyperledger Caliper performance benchmarks (IEEE format paper). | `Hyperledger Fabric` `Go` `Caliper` `Docker` `Shell` |
-| 🫁 [**lung-cancer-prediction-ml**](https://github.com/abdullahxDNA/lung-cancer-prediction-ml) | **Ensemble Deep Learning Classifier** — Medical image diagnostic system leveraging ensemble CNN architectures (Xception + ResNet50) for lung cancer classification. | `Python` `TensorFlow` `Keras` `OpenCV` |
-| 🌐 [**Portfolio**](https://github.com/abdullahxDNA/Portfolio) | **Personal Portfolio Website** — Interactive developer showcase highlighting projects, live demonstrations, and technical writings at [mdabdullah.dev](https://mdabdullah.dev). | `React` `Vite` `Tailwind CSS` |
+| Project | Description | Stack | Status |
+| :--- | :--- | :--- | :--- |
+| 🚀 **Footprint** | **Developer Workspace & Tracking Platform** — Full-stack monorepo featuring end-to-end typed RPC, role-based auth, TanStack file-based routing, S3 object storage, and Drizzle ORM transactions. | `React 19` `Hono` `Bun` `PostgreSQL` `Drizzle` `Better-Auth` | `🔒 Private / Active Dev` |
+| 🥐 [**Tamurfood**](https://github.com/abdullahxDNA/Tamurfood) | **B2B Bakery Ordering Platform** — Monorepo with end-to-end typed RPC, atomic inventory transactions, truthful accounting balances, and real-time SSE streams. | `React 19` `Hono` `Bun` `PostgreSQL` `Drizzle` `Supabase` | `Public` |
+| 🌾 [**agrifood-blockchain-hyperledger**](https://github.com/abdullahxDNA/agrifood-blockchain-hyperledger) | **Agricultural Food Supply Chain Traceability** — Enterprise 3-organization permissioned blockchain with Go chaincode, Raft consensus, and Hyperledger Caliper performance benchmarks (IEEE format paper). | `Hyperledger Fabric` `Go` `Caliper` `Docker` `Shell` | `Public` |
+| 🫁 [**lung-cancer-prediction-ml**](https://github.com/abdullahxDNA/lung-cancer-prediction-ml) | **Ensemble Deep Learning Classifier** — Medical image diagnostic system leveraging ensemble CNN architectures (Xception + ResNet50) for lung cancer classification. | `Python` `TensorFlow` `Keras` `OpenCV` | `Public` |
+| 🌐 [**Portfolio**](https://github.com/abdullahxDNA/Portfolio) | **Personal Portfolio Website** — Interactive developer showcase highlighting projects, live demonstrations, and technical writings at [mdabdullah.dev](https://mdabdullah.dev). | `React` `Vite` `Tailwind CSS` | `Live` |
 
 ---
 
