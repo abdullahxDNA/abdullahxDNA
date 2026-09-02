@@ -4,7 +4,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mdabdullah.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mdabdullah.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-abdullahxDNA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullahxDNA)
-[![Email](https://img.shields.io/badge/Contact-Get%20in%20Touch-007ACC?style=for-the-badge&logo=mail.ru&logoColor=white)](https://mdabdullah.dev#contact)
+[![Contact](https://img.shields.io/badge/Contact-Get%20in%20Touch-007ACC?style=for-the-badge&logo=mail.ru&logoColor=white)](https://mdabdullah.dev#contact)
 
 **Full-Stack & Distributed Systems Engineer**  
 Specialized in Type-Safe Monorepos, High-Performance APIs, Enterprise Blockchain & Deep Learning.
@@ -58,17 +58,6 @@ Specialized in Type-Safe Monorepos, High-Performance APIs, Enterprise Blockchain
 | 🌾 [**agrifood-blockchain-hyperledger**](https://github.com/abdullahxDNA/agrifood-blockchain-hyperledger) | **Agricultural Food Supply Chain Traceability** — Enterprise 3-organization permissioned blockchain with Go chaincode, Raft consensus, and Hyperledger Caliper performance benchmarks (IEEE format paper). | `Hyperledger Fabric` `Go` `Caliper` `Docker` `Shell` |
 | 🫁 [**lung_cancer_prediction_using_ML**](https://github.com/abdullahxDNA/lung_cancer_prediction_using_ML) | **Ensemble Deep Learning Classifier** — Medical image diagnostic system leveraging ensemble CNN architectures (Xception + ResNet50) for lung cancer classification. | `Python` `TensorFlow` `Keras` `OpenCV` |
 | 🌐 [**Portfolio**](https://github.com/abdullahxDNA/Portfolio) | **Personal Portfolio Website** — Interactive developer showcase highlighting projects, live demonstrations, and technical writings at [mdabdullah.dev](https://mdabdullah.dev). | `React` `Vite` `Tailwind CSS` |
-
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=abdullahxDNA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahxDNA&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
-
-</div>
 
 ---
 
