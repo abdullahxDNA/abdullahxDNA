@@ -56,7 +56,7 @@ Specialized in Type-Safe Monorepos, High-Performance APIs, Enterprise Blockchain
 | :--- | :--- | :--- |
 | 🥐 [**Tamurfood**](https://github.com/abdullahxDNA/Tamurfood) | **B2B Bakery Ordering Platform** — Monorepo with end-to-end typed RPC, atomic inventory transactions, truthful accounting balances, and real-time SSE streams. | `React 19` `Hono` `Bun` `PostgreSQL` `Drizzle` `Supabase` |
 | 🌾 [**agrifood-blockchain-hyperledger**](https://github.com/abdullahxDNA/agrifood-blockchain-hyperledger) | **Agricultural Food Supply Chain Traceability** — Enterprise 3-organization permissioned blockchain with Go chaincode, Raft consensus, and Hyperledger Caliper performance benchmarks (IEEE format paper). | `Hyperledger Fabric` `Go` `Caliper` `Docker` `Shell` |
-| 🫁 [**lung_cancer_prediction_using_ML**](https://github.com/abdullahxDNA/lung_cancer_prediction_using_ML) | **Ensemble Deep Learning Classifier** — Medical image diagnostic system leveraging ensemble CNN architectures (Xception + ResNet50) for lung cancer classification. | `Python` `TensorFlow` `Keras` `OpenCV` |
+| 🫁 [**lung-cancer-prediction-ml**](https://github.com/abdullahxDNA/lung-cancer-prediction-ml) | **Ensemble Deep Learning Classifier** — Medical image diagnostic system leveraging ensemble CNN architectures (Xception + ResNet50) for lung cancer classification. | `Python` `TensorFlow` `Keras` `OpenCV` |
 | 🌐 [**Portfolio**](https://github.com/abdullahxDNA/Portfolio) | **Personal Portfolio Website** — Interactive developer showcase highlighting projects, live demonstrations, and technical writings at [mdabdullah.dev](https://mdabdullah.dev). | `React` `Vite` `Tailwind CSS` |
 
 ---
