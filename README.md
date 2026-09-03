@@ -28,8 +28,8 @@ Specialized in Type-Safe Monorepos, High-Performance APIs, Enterprise Blockchain
 ```
 ┌── Frontend ─────────── React 19, TypeScript, Next.js, Vite, TanStack Router / Query, Tailwind CSS
 ├── Backend & Systems ── Hono, Bun, Node.js, Express, Go, Python, REST, Server-Sent Events (SSE)
-├── Data & Cloud ─────── PostgreSQL, Drizzle ORM, Supabase (RLS & Realtime), Redis, Docker, Railway
-└── Specialized ──────── Hyperledger Fabric, Caliper Benchmarking, PyTorch, CNN Ensembles (ResNet/Xception)
+├── Data & Cloud ─────── PostgreSQL, Drizzle ORM, Supabase (RLS & S3), Docker, Render, Redis
+└── Security & DevOps ── Cloudflare Turnstile, Sentry, Uptime Monitoring, CI/CD, Hyperledger Fabric
 ```
 
 <br/>
@@ -44,8 +44,9 @@ Specialized in Type-Safe Monorepos, High-Performance APIs, Enterprise Blockchain
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Hyperledger Fabric](https://img.shields.io/badge/Hyperledger_Fabric-2F3134?style=flat-square&logo=hyperledger&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Turnstile-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
 
 </div>
 
@@ -55,11 +56,11 @@ Specialized in Type-Safe Monorepos, High-Performance APIs, Enterprise Blockchain
 
 | Project | Description | Stack | Status |
 | :--- | :--- | :--- | :--- |
-| 🚀 **Footprint** | **Developer Workspace & Tracking Platform** — Full-stack monorepo featuring end-to-end typed RPC, role-based auth, TanStack file-based routing, S3 object storage, and Drizzle ORM transactions. | `React 19` `Hono` `Bun` `PostgreSQL` `Drizzle` `Better-Auth` | `🔒 Private / Active Dev` |
-| 🥐 [**Tamurfood**](https://github.com/abdullahxDNA/Tamurfood) | **B2B Bakery Ordering Platform** — Monorepo with end-to-end typed RPC, atomic inventory transactions, truthful accounting balances, and real-time SSE streams. | `React 19` `Hono` `Bun` `PostgreSQL` `Drizzle` `Supabase` | `Public` |
+| 👠 [**Footprint**](https://github.com/abdullahxDNA/footprint) | **Omnichannel Footwear E-Commerce Platform** — Production retail platform with Cloudflare Turnstile bot protection, Pathao courier logistics API, TanStack Router, S3 media pipeline, and Dockerized Render deployment. | `React 19` `Hono` `Bun` `PostgreSQL` `Drizzle` `Docker` `Render` | [🚀 Live Store](https://footprint-h0d8.onrender.com) |
+| 🥐 [**Tamurfood**](https://github.com/abdullahxDNA/Tamurfood) | **B2B Bakery Ordering Platform** — Monorepo with end-to-end typed RPC, atomic inventory transactions, truthful accounting balances, and real-time SSE streams. | `React 19` `Hono` `Bun` `PostgreSQL` `Drizzle` `Docker` `Render` | [🚀 Live Demo](https://tamurfood.onrender.com) |
 | 🌾 [**agrifood-blockchain-hyperledger**](https://github.com/abdullahxDNA/agrifood-blockchain-hyperledger) | **Agricultural Food Supply Chain Traceability** — Enterprise 3-organization permissioned blockchain with Go chaincode, Raft consensus, and Hyperledger Caliper performance benchmarks (IEEE format paper). | `Hyperledger Fabric` `Go` `Caliper` `Docker` `Shell` | `Public` |
 | 🫁 [**lung-cancer-prediction-ml**](https://github.com/abdullahxDNA/lung-cancer-prediction-ml) | **Ensemble Deep Learning Classifier** — Medical image diagnostic system leveraging ensemble CNN architectures (Xception + ResNet50) for lung cancer classification. | `Python` `TensorFlow` `Keras` `OpenCV` | `Public` |
-| 🌐 [**Portfolio**](https://github.com/abdullahxDNA/Portfolio) | **Personal Portfolio Website** — Interactive developer showcase highlighting projects, live demonstrations, and technical writings at [mdabdullah.dev](https://mdabdullah.dev). | `React` `Vite` `Tailwind CSS` | `Live` |
+| 🌐 [**Portfolio**](https://github.com/abdullahxDNA/Portfolio) | **Personal Portfolio Website** — Interactive developer showcase highlighting projects, live demonstrations, and technical writings at [mdabdullah.dev](https://mdabdullah.dev). | `React` `Vite` `Tailwind CSS` | [🌐 mdabdullah.dev](https://mdabdullah.dev) |
 
 ---
 
