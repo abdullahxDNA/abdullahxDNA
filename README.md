@@ -7,8 +7,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-abdullahxDNA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullahxDNA)
 [![Email](https://img.shields.io/badge/Email-mdabdullah10301%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdabdullah10301@gmail.com)
 
-**Full-Stack & Distributed Systems Engineer**  
-Specialized in Type-Safe Monorepos, High-Performance APIs, Enterprise Blockchain & Deep Learning.
+**Junior Software Engineer · CSE Graduate (IIUC)**  
+Passionate about Full-Stack Web Development, Modern AI-Assisted Tooling & Distributed Systems.
 
 </div>
 
@@ -16,10 +16,10 @@ Specialized in Type-Safe Monorepos, High-Performance APIs, Enterprise Blockchain
 
 ### 🚀 What I Do
 
-- 🏗️ **Architecting Type-Safe Applications:** Building production-grade full-stack web platforms with **TypeScript, React 19, Hono, Bun, and PostgreSQL**.
-- ⛓️ **Distributed Systems & Blockchain:** Designing permissioned enterprise networks and smart contracts with **Hyperledger Fabric (Go)** and benchmarking throughput with **Hyperledger Caliper**.
-- 🧠 **Applied Machine Learning:** Developing computer vision and classification pipelines with **PyTorch, TensorFlow, and Ensemble CNNs**.
-- 🛠️ **Developer Experience & Infrastructure:** Crafting clean monorepos, atomic database transaction models with **Drizzle ORM**, and deploying robust containerized services via **Docker & Supabase**.
+- 🌐 **Full-Stack Web Development:** Building modern web applications and RESTful APIs with **TypeScript, React 19, Hono, Bun, and PostgreSQL** using AI-assisted developer workflows.
+- ⛓️ **Blockchain & Distributed Systems:** Explored permissioned enterprise networks and smart contracts with **Hyperledger Fabric (Go)** and benchmarked transaction throughput for my undergraduate thesis.
+- 🧠 **Applied Machine Learning:** Developed medical image diagnostic pipelines with **Python, TensorFlow, Keras, and Ensemble CNNs** (Xception + ResNet50).
+- 🛠️ **DevOps & Cloud Deployments:** Containerizing services with **Docker** and deploying full-stack web applications to **Render cloud** with **Supabase PostgreSQL & S3**.
 
 ---
 
